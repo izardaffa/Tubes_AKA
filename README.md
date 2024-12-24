@@ -1,4 +1,8 @@
-![Poster disini](https://)
+# Tugas Besar Analisis Kompleksitas Algoritma
+
+![Poster disini](Tubes%20AKA.png)
+
+> Final code on [Colab](https://colab.research.google.com/drive/13NAJxnoLvS6CAZuIG-0Aps9awNV3fxzo?usp=sharing)
 
 # Penjelasan kode
 
